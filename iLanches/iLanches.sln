@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iLanches", "iLanches\iLanches.csproj", "{EB6D75B8-E860-4A91-B520-41E31FBAAECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB6D75B8-E860-4A91-B520-41E31FBAAECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB6D75B8-E860-4A91-B520-41E31FBAAECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB6D75B8-E860-4A91-B520-41E31FBAAECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB6D75B8-E860-4A91-B520-41E31FBAAECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7615E5C-825F-40EE-BC68-74066CBD2E8F}
+	EndGlobalSection
+EndGlobal
