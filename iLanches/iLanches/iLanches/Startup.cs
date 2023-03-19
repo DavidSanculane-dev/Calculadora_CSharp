@@ -1,8 +1,9 @@
-﻿namespace iLanches
+﻿using Microsoft.Extensions.FileSystemGlobbing.Internal.Patterns;
+
+namespace iLanches
 {
     public class Startup
     {
-
 
         public Startup(IConfiguration configuration)
         {
@@ -44,5 +45,6 @@
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
         }
+
     }
 }
